@@ -1,2 +1,2 @@
 # Weather_API
-## Flask app using the Weather api to get attributes for a region
+## Flask app using Pandas to read spreadsheet of collected scientific data to get attributes for a weather regions
